@@ -1,0 +1,12 @@
+- render menu with js
+- add to cart
+- remove from cart
+- payment button
+- modal with payment - mandatory fields
+- on clik on PAY the order summary section is replaced by a message
+
+extra:
+
+- change the theme
+- add discount if food and drink are in the basket
+- rate the experiance 1 to 5 star 
